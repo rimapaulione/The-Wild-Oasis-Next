@@ -1,8 +1,9 @@
 # The Wild Oasis
 
-<p>This application is an educational project created as part of a course offered by Jonas Schmedtmann. </p>
+<p>This application is an educational project created as part of a course offered by Jonas Schmedtmann. The project was created with Next.js. In the app, users can see all cabins and reserved dates. For reservations, users have to sign in with Google and can choose a cabin for vacations, select dates, number of guests, and leave comments. They can also go to their profile and update information. It is possible to manage reservations (edit and delete) too.
+  </p>
 
-## [The Wild Oasis project preview](https://)
+## [The Wild Oasis project preview](https://wildoasis-next.vercel.app/)
 
 <img src="/_assets/wildoasis.png" alt="The Wild Oasis app" >
 
