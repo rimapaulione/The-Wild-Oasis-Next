@@ -5,7 +5,7 @@
 
 ## [The Wild Oasis project preview](https://wildoasis-next.vercel.app/)
 
-<img src="/_assets/wildoasis.png" alt="The Wild Oasis app" >
+<img src="/app/_assets/wildoasis.png" alt="The Wild Oasis app" >
 
 ## Used in App:
 
